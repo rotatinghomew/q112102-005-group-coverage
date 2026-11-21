@@ -1,0 +1,9 @@
+period,version,person,state,verified
+06,a,p1,reached,1
+06,a,p2,failed,1
+06,a,p4,reached,1
+06,a,p6,unknown,0
+06,b,p1,reached,1
+06,b,p2,reached,1
+06,b,p4,reached,1
+06,b,p6,unknown,0

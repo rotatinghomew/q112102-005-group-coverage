@@ -1,0 +1,5 @@
+id,audience,period,version,cell,alternate,presentation
+d1,public,06,a,s,t,count
+d2,public,06,a,ndr,tr,count
+d3,public,06,a,sr,tr,ratio
+d4,public,06,b,nr,tr,count

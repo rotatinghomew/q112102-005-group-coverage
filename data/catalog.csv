@@ -1,0 +1,10 @@
+cell,area,groups,status,sensitive,structural_zero
+t,town,*,all,0,0
+n,north,*,all,0,0
+s,south,*,all,0,0
+nr,north,*,reached,1,0
+nd,north,独居;残障,all,1,0
+ndr,north,独居;残障,reached,1,0
+sr,south,*,reached,1,0
+tr,town,*,reached,0,0
+sz,south,独居;未成年人,all,0,1
