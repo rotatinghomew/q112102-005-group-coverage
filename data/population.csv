@@ -1,0 +1,5 @@
+area_ref,group_code,period,estimated_count,quality
+G-1,older_adult,2026-01,4,partial
+G-1,disability,2026-01,3,partial
+G-2,child,2026-01,2,reviewed
+G-3,older_adult,2026-01,1,suppressed

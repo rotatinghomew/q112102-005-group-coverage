@@ -1,0 +1,4 @@
+service_id,family_ref,service_code,occurred_at,status
+S-1,H-01,visit,2026-01-10,completed
+S-2,H-02,call,2026-01-11,attempted
+S-3,H-03,visit,2026-01-12,completed

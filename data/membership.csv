@@ -1,0 +1,5 @@
+membership_id,family_ref,group_code,valid_from,valid_to,basis
+M-1,H-01,older_adult,2026-01-01,,verified
+M-2,H-01,disability,2026-01-01,,verified
+M-3,H-02,child,2026-01-05,,pending
+M-4,H-03,older_adult,2026-01-07,2026-01-20,corrected
